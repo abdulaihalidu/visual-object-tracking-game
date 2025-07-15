@@ -42,7 +42,7 @@ visual-object-tracking-game/
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/visual-object-tracking-game.git](https://github.com/your-username/visual-object-tracking-game.git)
+    git clone [https://github.com/abdulaihalidu/visual-object-tracking-game.git](https://github.com/abdulaihalidu/visual-object-tracking-game.git)
     cd visual-object-tracking-game
     ```
 
