@@ -13,7 +13,7 @@ This project is an interactive shape-matching game that uses a particle filter f
 ## Project Structure
 
 The project is organized into a modular structure for clarity and maintainability:
-
+```
 visual-object-tracking-game/
 ├── assets/
 │   └── sounds/
@@ -29,6 +29,7 @@ visual-object-tracking-game/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Setup and Installation
 
